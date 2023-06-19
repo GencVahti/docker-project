@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+.venv/
+
+# IDE
+.idea/
+
+# Test results
+.coverage
+
+# Log files
+*.log
+
+# Dependency management
+pipfile
+Pipfile.lock
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Diğer
+*.swp
+.DS_Store
