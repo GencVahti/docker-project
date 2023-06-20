@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Build output
+/dist/
+
+# Development files
+src/
+public/
+
+.DS_Store
