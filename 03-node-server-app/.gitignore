@@ -1,0 +1,50 @@
+# Dependencies
+/node_modules
+
+# Build output
+/dist
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+
+# IDE / Editor specific
+.idea
+.vscode
+*.sublime-*
+*.swp
+
+# Compiled binary addons (if any)
+/build
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Testing
+/coverage
+
+# Dependency lock files
+/package-lock.json
+/yarn.lock
+.pnpm-lock.yaml
+
+# Output of npm's `npm ci` command
+/package-lock.json
+
+# Output of yarn's `yarn install --frozen-lockfile` command
+/yarn.lock
+
+# Output of pnpm's `pnpm install --frozen-lockfile` command
+/pnpm-lock.yaml
+/pnpm-workspace.yaml
+.pnpm
+.pnpm-debug.log
+.pnpm-store
+.pnpmfile.cjs
+
+# Optional npm cache directory
+.npm
