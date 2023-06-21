@@ -1,0 +1,34 @@
+# Dependencies
+node_modules
+
+# Build output
+dist
+
+# Logs
+logs
+*.log
+
+# IDE / Editor specific
+.idea
+.vscode
+*.sublime-*
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+.pnpm-lock.yaml
+.pnpm
+.pnpm-debug.log
+.pnpm-store
+.pnpmfile.cjs
+
+# Optional npm cache directory
+.npm
